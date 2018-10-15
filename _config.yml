@@ -1,0 +1,15 @@
+name: "세벌식을 씁시다 - 캠페인 사이트"
+title: "세벌식을 씁시다"
+subtitle: "캠페인 사이트"
+baseurl: "/"
+url: "xn--pk3bl9feqb.kr"
+
+repo: "https://github.com/sebeolsik/Sebeolsik.github.io/"
+
+markdown: kramdown
+gems:
+  - jekyll-feed
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README
