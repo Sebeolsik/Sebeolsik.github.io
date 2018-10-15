@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+    {% include meta.html %}
+    {% include bootstrap.html %}
+	<link rel="stylesheet" href="style.css">
+	
+	<title>{{ site.title }} - {{ site.subtitle }}</title>
+</head>
+<body>
+	<div class="jumbotron text-center" style="margin-bottom: 0;">
+		<h1>{{ site.title }}</h1>
+		<p>{{ site.subtitle }}</p>
+	</div>
+	{{ content }}
+</body>
+</html>
