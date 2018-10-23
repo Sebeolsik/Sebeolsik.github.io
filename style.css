@@ -7,3 +7,7 @@ body {
 img {
 	max-width: 100%;
 }
+
+hr {
+	margin: 45px 0;
+}
