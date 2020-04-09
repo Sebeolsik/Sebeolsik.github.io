@@ -123,9 +123,10 @@ navbar: ["세벌식이란", "세벌식이 좋은 이유", "세벌식을 씁시�
 
 ### 세벌식 사용을 위한 프로그램
 #### 타자 연습 프로그램
-* 한컴 타자연습
-* [날개셋 타자연습](http://moogi.new21.org/prg5.html)
-* [열린타자](https://github.com/suhdonghwi/OpenTyping)
+* [한컴 타자연습](https://www.hancom.com/hanfriends/friendsTyping.do) (웹, Windows)
+* [날개셋 타자연습](http://moogi.new21.org/prg5.html) (Windows)
+* [열린타자](https://github.com/suhdonghwi/OpenTyping) (Windows)
+* [Taza](https://apps.apple.com/kr/app/taza/id452941048?mt=12) (macOS)
 
 #### 세벌식을 지원하는 입력기
 ##### Windows
