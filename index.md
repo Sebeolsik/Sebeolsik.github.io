@@ -149,7 +149,6 @@ navbar: ["세벌식이란", "세벌식이 좋은 이유", "세벌식을 씁시�
 * [OpenWnn Korean](https://play.google.com/store/apps/details?id=me.blog.hgl1002.openwnn)
 * [세삭 세벌식 입력기](https://play.google.com/store/apps/details?id=com.egloos.woongyee.sesak)
 * [MN 로그인 키보드](https://play.google.com/store/apps/details?id=com.MobileNeuron.MNLogInKeyboard)
-* [세나 입력기](https://play.google.com/store/apps/details?id=com.sleet.android.sebeol390keyboard)
 
 ##### iOS
 * [세벌 키보드](https://itunes.apple.com/kr/app/%EC%84%B8%EB%B2%8C-%ED%82%A4%EB%B3%B4%EB%93%9C/id428835384?mt=8)
