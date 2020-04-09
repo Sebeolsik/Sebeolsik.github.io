@@ -1,4 +1,7 @@
-_site
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
 images/favicon.ai
 images/favicon.png
 images/favicon.svg
