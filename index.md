@@ -140,6 +140,7 @@ navbar: ["세벌식이란", "세벌식이 좋은 이유", "세벌식을 씁시�
 * fcitx-hangul
 * uim-byeoru
 * nabi
+* nimf
 
 ##### macOS
 * 기본 한글 입력기에서 세벌식 390과 세벌식 최종 지원
